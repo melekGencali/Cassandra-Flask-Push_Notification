@@ -1,0 +1,10 @@
+cassandra-driver
+pywebpush
+flask
+Flask-SQLAlchemy
+py-vapid
+cryptography
+pywebpush
+
+yeni database eklendi --> localhost
+keyspace adı değiştirildi -> flask_keyspace
